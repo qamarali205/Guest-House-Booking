@@ -17,7 +17,7 @@ Supports **authentication, guesthouse management, room bookings, and dummy payme
 - 🛏️ Room Booking with Availability Check  
 - 💳 Dummy Payment Simulation (Razorpay-style)  
 - 📅 View My Bookings  
-- ❌ Cancel Bookings (Bonus)  
+- ❌ Cancel Bookings
 
 ---
 
