@@ -33,8 +33,8 @@ Supports **authentication, guesthouse management, room bookings, and dummy payme
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/guesthouse-booking-api.git
-cd guesthouse-booking-api
+git clone https://github.com/qamarali205/Guest-House-Booking.git
+cd Guest-House-Booking
 
 
 2️⃣ Install Dependencies
